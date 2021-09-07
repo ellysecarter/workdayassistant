@@ -1,4 +1,4 @@
-# super-disco
+# Workday Assistant 
 
 #### This is a site made by HTML, CSS, JavaScript, Bootstrap, Moment, and jQuery 
 
