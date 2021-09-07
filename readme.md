@@ -13,7 +13,7 @@ The time blocks for the future hours show as green.
 
 
 ## Setup/Installation Requirements
-Open terminal or a similar app on your computer and change directory to Desktop. Copy https://github.com/ellysecarter/work.  Use git clone and paste that link after it to clone the repository.  Open the folder it provides. Open the HTML folder inside. You can also go to this link to see the full site https://ellysecarter.github.io/workdayassistant/ 
+Open terminal or a similar app on your computer and change directory to Desktop. Copy https://github.com/ellysecarter/workdayassistant.git.  Use git clone and paste that link after it to clone the repository.  Open the folder it provides. Open the HTML folder inside. You can also go to this link to see the full site https://ellysecarter.github.io/workdayassistant/ 
 
 ## Known Bugs
 None known
